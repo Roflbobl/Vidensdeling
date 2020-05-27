@@ -7,3 +7,5 @@ http://www.findinge.com/notes/exam/
 
 ## Sider til algorithmer og matematik
 https://www.wolframalpha.com/
+https://matrix.reshish.com/gauss-jordanElimination.php
+http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref
