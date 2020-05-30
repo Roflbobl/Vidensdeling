@@ -9,3 +9,6 @@ http://www.findinge.com/notes/exam/
 https://www.wolframalpha.com/
 https://matrix.reshish.com/gauss-jordanElimination.php
 http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref
+
+## Master Theorem solver
+https://www.nayuki.io/page/master-theorem-solver-javascript
